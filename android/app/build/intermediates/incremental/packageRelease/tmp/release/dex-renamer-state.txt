@@ -1,0 +1,7 @@
+#Tue Dec 19 18:36:42 IST 2023
+base.1=/home/ps-dev2/React2023/PropertyApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/home/ps-dev2/React2023/PropertyApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

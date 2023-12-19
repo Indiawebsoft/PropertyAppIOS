@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/ps-dev2/React2023/PropertyApp/android/app"
+    name=":app"
+    type="APP"
+    maven="PropertyApp:app:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="/home/ps-dev2/Android/Sdk/platforms/android-33/android.jar:/home/ps-dev2/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
